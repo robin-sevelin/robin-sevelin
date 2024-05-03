@@ -6,8 +6,6 @@
 
 🙍‍♂️ name = 'Robin' 
 
-⏱️ age = 40 
-
 🌎 location = 'Visby'
 
 📖 education = 'Front-End Developer'
@@ -39,7 +37,7 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Contact
 
