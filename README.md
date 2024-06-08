@@ -49,4 +49,4 @@
 
  💡 My linkedIn: https://www.linkedin.com/in/robin-sevelin-336b20168/
  
- 📫 How to reach me: robin.sevelin@medieinstitutet.se
+ 📫 How to reach me: robinsevelin@hotmail.com
