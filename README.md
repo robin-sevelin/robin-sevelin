@@ -8,7 +8,7 @@
 
 🌎 location = 'Visby'
 
-📖 education = 'Front-End Developer'
+💼 work = 'Dev at Svenska Spel'
 
 
 
